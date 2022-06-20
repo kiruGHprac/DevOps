@@ -12,9 +12,11 @@
     ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
     ```
    OR
+   ```sh
     sudo apt update
     sudo apt install awscli
     aws --version
+    ```
     
 1. Install kubectl
    ```sh
